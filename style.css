@@ -85,6 +85,24 @@ body{
 .fh1 p{
     margin-right: 30px;
 }
+.fslide{
+    display: grid;
+    grid-template-columns: 1000px 1000px 1000px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    scrollbar-width: thin;
+    column-gap: 30px;
+    margin: 0px 30px;
+    
+
+}
+.fslide img{
+    border-radius: 25px;
+  
+    object-fit: cover;
+    width: 1000px;
+
+}
 .movies1{
     display: grid;
     width: 100%;
@@ -549,4 +567,22 @@ svg:hover{
     color: #c71616;
     border-radius: 50%;
     opacity: 0.1;
+}
+
+
+
+
+
+
+
+
+
+
+.pani{
+    background-image: url("img/paniiii");
+    /* width: 100%; */
+    height: 480px;
+    background-image: -moz-linear-gradient();
+    margin: 0px 50px;
+    object-fit: fill;
 }
