@@ -574,15 +574,48 @@ svg:hover{
 
 
 
+.movv{
+    width: 100%;
+   /* padding: 50px; */
 
+}
 
-
+.mov{
+    width: 100%;
+    height: 550px;
+    display: flex;
+    background-image: url("img/paniiii");
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center center;
+    
+}
 
 .pani{
-    background-image: url("img/paniiii");
-    /* width: 100%; */
-    height: 480px;
-    background-image: -moz-linear-gradient();
-    margin: 0px 50px;
+    width: 100%;
+    background-image: linear-gradient(90deg, rgb(26, 26, 26) 24.97%, rgb(26, 26, 26) 38.3%, rgba(26, 26, 26, 0.04) 93.47%, rgb(26, 26, 26) 100%);
+    height: 550px;
+    /* margin: 0px 50px; */
     object-fit: fill;
+    background-size: cover;
+    display: flex;
+    position: absolute;
+ 
+   
+
+    
 }
+
+
+.movies1 a{
+    text-decoration: none;
+}
+.pani img{
+    /* width: 350px; */
+    height: 392px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 40px;
+    border-radius: 25px;
+}
+background-image: 
