@@ -347,3 +347,116 @@ color: rgb(0, 0, 0);
     font-size: 14px;
     font-weight: 400;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="movv">
+<div class="mov"> <h1>oani</h1>
+<div class="pani">
+  <div class="trailer">
+
+  <img src="aaaa" alt="">
+  <button>trailer</button>
+   
+</div>
+  <h5>in cinemas</h5>
+  
+
+</div>
+</div>
+</div> -->
+
+
+
+/* .movv{
+    width: 100%;
+   /* padding: 50px; 
+   display: flex;
+
+}
+
+.mov{
+    width: 100%;
+    height: 550px;
+    display: flex;
+    color: white;
+    background-image: url("img/paniiii");
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    color: white;
+    
+}
+.mov h1{
+    width: 100%;
+    color: white;
+   
+    
+}
+
+.pani{
+    width: 100%;
+    background-image: linear-gradient(90deg, rgb(26, 26, 26) 24.97%, rgb(26, 26, 26) 38.3%, rgba(26, 26, 26, 0.04) 93.47%, rgb(26, 26, 26) 100%);
+    height: 550px;
+    /* margin: 0px 50px; 
+    object-fit: fill;
+    background-size: cover;
+    display: flex;
+    position: absolute;
+ 
+   
+
+    
+}
+
+
+.movies1 a{
+    text-decoration: none;
+}
+.pani img{
+    /* width: 350px; 
+    height: 392px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 40px;
+    border-radius: 25px;
+}
+.trailer{
+    display: flex;
+    position: relative;
+    
+}
+.trailer button{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    background-color: #2b3148;
+    color: white;
+
+
+}
+.pani h5{
+    position: relative;
+    margin-top: 500px;
+    color: white;
+    width: 100%;
+    margin-left: -175px;
+
+
+} */

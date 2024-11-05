@@ -568,54 +568,31 @@ svg:hover{
     border-radius: 50%;
     opacity: 0.1;
 }
-
-
-
-
-
-
-.movv{
+.big{
     width: 100%;
-   /* padding: 50px; */
-
 }
-
-.mov{
+.child{
     width: 100%;
-    height: 550px;
-    display: flex;
     background-image: url("img/paniiii");
-    background-repeat: no-repeat;
-    position: relative;
-    background-position: center center;
-    
-}
-
-.pani{
-    width: 100%;
-    background-image: linear-gradient(90deg, rgb(26, 26, 26) 24.97%, rgb(26, 26, 26) 38.3%, rgba(26, 26, 26, 0.04) 93.47%, rgb(26, 26, 26) 100%);
-    height: 550px;
-    /* margin: 0px 50px; */
-    object-fit: fill;
     background-size: cover;
-    display: flex;
-    position: absolute;
- 
-   
-
+    height: 600px;
     
+   
+}
+.small{
+    width: 100%;
+    height: 400px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    color: white;
+}
+.small1{
+    display: flex;
+    margin: 25%;
+    color: white;
+}
+.small1 img{
+    border-radius: 45px;
 }
 
 
-.movies1 a{
-    text-decoration: none;
-}
-.pani img{
-    /* width: 350px; */
-    height: 392px;
-    position: relative;
-    margin-top: 100px;
-    margin-left: 40px;
-    border-radius: 25px;
-}
-background-image: 
