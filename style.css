@@ -573,7 +573,7 @@ svg:hover{
 }
 .child{
     width: 100%;
-    background-image: url("img/paniiii");
+    background-image: linear-gradient(90deg,rgb(26,26,26)38.3%,rgba(26,26,26,0.4)97.47%,rgb(26,26,26)100%), url("img/paniiii");
     background-size: cover;
     height: 600px;
     
@@ -594,5 +594,16 @@ svg:hover{
 .small1 img{
     border-radius: 45px;
 }
-
+.small1 ul h1{
+    font-size: 55px;
+}
+.rating li{
+    list-style: none;
+    display: flex;
+    gap: 5px;
+    
+}
+.td{ list-style: none;
+    display: flex;
+}
 
